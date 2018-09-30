@@ -7,4 +7,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 track change 1
 track change 2
-cao ni ma
+
