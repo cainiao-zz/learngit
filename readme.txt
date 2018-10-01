@@ -20,3 +20,6 @@ fixed bug 101
 
 
 git stash
+
+
+i am friend one77
