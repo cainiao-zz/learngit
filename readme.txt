@@ -12,7 +12,7 @@ dev change this txt
 slav change this txt:::::::::
 
 hanhanhan ....ooooxxxxxxxxxxxxxx
-
+winter is comming do you know ?
 
 git --no-ff
 fixed bug 101
