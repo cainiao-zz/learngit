@@ -15,7 +15,7 @@ slav change this txt:::::::::
 
 
 git --no-ff
-
+fixed bug 101
 
 
 
