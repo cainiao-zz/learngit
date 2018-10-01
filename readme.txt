@@ -11,3 +11,8 @@ create a new branch div
 this is slav branch change readme.txt
 dev change this txt
 slav change this txt:::::::::
+
+
+
+
+git --no-ff
